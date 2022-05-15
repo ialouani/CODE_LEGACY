@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../hash/hash.h
+
+/home/ubuntu20/CODE_LEGACY/test/example.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+hash.h
+-
+
