@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libhash_dyn.so -o libhash_dyn.so CMakeFiles/hash_dyn.dir/src/hash.c.o 

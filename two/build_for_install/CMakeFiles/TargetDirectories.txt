@@ -1,0 +1,2 @@
+/home/ubuntu20/CODE_LEGACY/two/build_for_install/CMakeFiles/hash_dyn.dir
+/home/ubuntu20/CODE_LEGACY/two/build_for_install/CMakeFiles/hash_sta.dir
